@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on flutter/c++/rust/python
 - 📫 How to reach me (better dont, slow to response)
 
-<!---
-TicDingDong/TicDingDong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Github Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TicDingDong&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TicDingDong&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TicDingDong)
